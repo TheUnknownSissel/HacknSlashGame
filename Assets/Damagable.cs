@@ -9,5 +9,6 @@ namespace Assets
 {
     public class Damagable : MonoBehaviour
     {
+        
     }
 }
